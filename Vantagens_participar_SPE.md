@@ -8,6 +8,19 @@ Guia prático para estudantes membros — resumo das principais vantagens de ser
 
 Participar na SPE oferece aos estudantes acesso a uma rede global, recursos técnicos de ponta, oportunidades de desenvolvimento profissional, descontos em conferências e concursos académicos. Um Student Chapter rende benefícios adicionais: financiamento para actividades, apoio técnico/organizacional, competições estudantis e maior visibilidade junto da indústria local e internacional.
 
+## Porquê participar — mensagem persuasiva
+
+Participar na SPE e no Student Chapter do ISPTEC transforma o teu percurso académico em vantagens concretas. Ao juntares‑te vais ter acesso a conhecimento técnico relevante, contactos profissionais que facilitam estágios e empregos, oportunidades para apresentar trabalhos e experiências de liderança que enriquecem o teu currículo. É um investimento de tempo de baixo risco e alto retorno: participação regular aumenta a tua empregabilidade, visibilidade e acesso a bolsas e oportunidades académicas.
+
+Pontos que normalmente convencem os estudantes:
+- Acelera a entrada no mercado de trabalho.
+- Fornece competências práticas aplicáveis imediatamente.
+- Dá experiências de liderança e organização.
+- Eleva a tua visibilidade académica e profissional.
+- Abre portas a bolsas, visitas técnicas e oportunidades exclusivas.
+
+Convite: regista‑te em https://www.spe.org/join/ e participa nas actividades do chapter para começar a aproveitar estas vantagens.
+
 ## Benefícios gerais da SPE (para estudantes)
 
 - **Networking e contacto com a indústria:** acesso a profissionais, recrutadores e ex-alunos; oportunidades de estágio e emprego através de eventos e feiras.

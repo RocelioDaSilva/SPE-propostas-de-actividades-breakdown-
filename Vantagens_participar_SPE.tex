@@ -5,7 +5,7 @@
 \usepackage[portuguese]{babel}
 \usepackage{lmodern}
 \usepackage{geometry}
-\geometry{margin=2.5cm}
+\geometry{margin=2.5cm,headheight=15pt}
 \usepackage{microtype}
 \usepackage{xcolor}
 \usepackage{titlesec}
@@ -15,43 +15,109 @@
 \usepackage{booktabs}
 \usepackage{verbatim}
 \usepackage{setspace}
+\usepackage{tcolorbox}
+\usepackage{tikz}
 \onehalfspacing
-\titleformat{\section}{\bfseries\Large\color{teal}}{\thesection}{1em}{}
-\titleformat{\subsection}{\bfseries\large\color{cyan}}{\thesubsection}{0.5em}{}
-\hypersetup{colorlinks=true,linkcolor=teal,urlcolor=blue}
+
+% Define professional color palette
+\definecolor{spe-teal}{RGB}{0,102,102}
+\definecolor{spe-accent}{RGB}{255,102,0}
+\definecolor{spe-light}{RGB}{230,245,245}
+\definecolor{spe-dark}{RGB}{20,40,60}
+
+% Enhanced section formatting
+\titleformat{\section}{\bfseries\Large\color{white}\filcenter}{}{0pt}{%
+  \colorbox{spe-teal}{\parbox{\dimexpr\textwidth-2\fboxsep\relax}{\thesection\ #1}}}
+\titlespacing{\section}{0pt}{12pt}{8pt}
+
+\titleformat{\subsection}{\bfseries\large\color{spe-teal}}{\thesubsection}{0.8em}{}
+\titlespacing{\subsection}{0pt}{10pt}{6pt}
+
+\hypersetup{colorlinks=true,linkcolor=spe-accent,urlcolor=spe-accent}
+
+% Fancy header with visual separator
 \pagestyle{fancy}
 \fancyhf{}
-\fancyhead[L]{SPE ISPTEC — Membership Chair}
-\fancyhead[R]{Vantagens de participar}
-\fancyfoot[C]{\thepage}
+\fancyhead[L]{\small\color{spe-dark}\textbf{SPE ISPTEC Student Chapter}}
+\fancyhead[R]{\small\color{spe-dark}Guia de Vantagens}
+\renewcommand{\headrulewidth}{2pt}
+\renewcommand{\headrule}{{\color{spe-accent}\hrule\@height\headrulewidth\@width\headwidth}}
+\fancyfoot[C]{\small\color{spe-dark}\thepage}
 
-\title{Vantagens de Participar na SPE e no Student Chapter \\ \large Guia prático para estudantes membros}
-\author{SPE ISPTEC Student Chapter}
-\date{\today}
+% List formatting
+\setlist[itemize]{leftmargin=1.5em,itemsep=4pt,parsep=2pt}
+\setlist[enumerate]{leftmargin=1.5em,itemsep=4pt,parsep=2pt}
+
+\title{}
+\author{}
+\date{}
 
 \begin{document}
-\maketitle
-\begin{abstract}
-Documento orientado para o Membership Chairperson com as principais vantagens de pertencer à Society of Petroleum Engineers (SPE) e de participar ativamente num Student Chapter. Todas as menções incluem exemplos práticos para facilitar a aplicação imediata.
-\end{abstract}
-\tableofcontents
-\newpage
+
+% Custom title page
+\vspace*{1cm}
+\begin{center}
+{\color{spe-teal}\rule{\textwidth}{3pt}}\\
+\vspace{0.5cm}
+{\Huge\bfseries\color{spe-dark} Vantagens de Participar}\\
+{\huge\bfseries\color{spe-accent} na SPE e no Student Chapter}\\
+\vspace{0.3cm}
+{\LARGE\itshape\color{spe-teal} Guia Prático para Estudantes}\\
+\vspace{0.5cm}Participar — a Mensagem}
+\textcolor{spe-dark}{Participar na SPE e no Student Chapter do ISPTEC transforma o teu percurso académico em vantagens concretas.} Ao juntares-te, tens acesso a conhecimento técnico relevante, contactos profissionais que facilitam estágios e empregos, oportunidades para apresentar trabalhos e experiências de liderança que enriquecem o teu currículo. 
+
+\textbf{\color{spe-accent}É um investimento de tempo de baixo risco e alto retorno:} a participação regular aumenta a empregabilidade, a visibilidade académica e o acesso a bolsas.
+
+\begin{tcolorbox}[colback=white,colframe=spe-accent,arc=3mm,boxrule=2pt,left=8pt,right=8pt,top=8pt,bottom=8pt]
+{\bfseries\color{spe-dark}Benefícios-chave:}
+\begin{itemize}
+  \item[\color{spe-accent}✓] Acelera a entrada no mercado de trabalho
+  \item[\color{spe-accent}✓] Fornece competências práticas aplicáveis imediatamente
+  \item[\color{spe-accent}✓] Proporciona experiências de liderança e organização
+  \item[\color{spe-accent}✓] Eleva a tua visibilidade académica e profissional
+  \item[\color{spe-accent}✓] Abre portas a bolsas, visitas técnicas e oportunidades exclusivas
+\end{itemize}
+\end{tcolorbox}
+
+\vspace{1em}
+\begin{center}
+\fbox{\textbf{\color{spe-accent}Regista-te agora:} \url{https://www.spe.org/join/}}
+\end{center}
 
 \section{Sumário executivo}
 Participar na SPE dá acesso a uma comunidade profissional, recursos técnicos e oportunidades práticas que aceleram a carreira académica e profissional. Um Student Chapter acrescenta apoio local, financiamento e visibilidade.
 
-\section{Benefícios gerais da SPE (para estudantes)}
-\begin{itemize}[left=0pt]
-  \item \textbf{Networking e contacto com a indústria.}
-  \item \textbf{Acesso a literatura técnica.}
-  \item \textbf{Formação e desenvolvimento profissional.}
-  \item \textbf{Oportunidades académicas e competições.}
-  \item \textbf{Financiamento e bolsas.}
-  \item \textbf{Visibilidade e credibilidade profissional.}
-  \item \textbf{Descontos e vantagens económicas.}
-  \item \textbf{Comunidade global e local.}
-\end{itemize}
+\section{Porquê participar — mensagem persuasiva}
+Participar na SPE e no Student Chapter do ISPTEC transforma o teu percurso académico em vantagens concretas. Ao juntares--te, tens acesso a conhecimento técnico relevante, contactos profissionais que facilitam estágios e empregos, oportunidades para apresentar trabalhos e experiências de liderança que enriquecem o teu currículo. Trata--se de um investimento de tempo de baixo risco e alto retorno: a participação regular aumenta a empregabilidade, a visibilidade académica e o acesso a bolsas e oportunidades.
 
+\begin{itemize}
+  \item Acelera a entrada no mercado de trabalho.
+  \item Fornece competências práticas aplicáveis imediatamente.
+  \item Proporciona experiências de liderança e organização.
+  \item Eleva a tua Gerais da SPE}
+
+\begin{enumerate}[label=\color{spe-accent}\textbf{\arabic*.}]
+  \item[\color{spe-accent}\textbf{🤝}] \textbf{Networking com a Indústria} — Conecta com profissionais, ex-alunos e potenciais empregadores
+  \item[\color{spe-accent}\textbf{📚}] \textbf{Acesso a Literatura Técnica} — Base de dados OnePetro com milhares de artigos
+  \item[\color{spe-accent}\textbf{💼}] \textbf{Formação Profissional} — Webinars, cursos e certificações especializadas
+  \item[\color{spe-accent}\textbf{🏆}] \textbf{Competições Académicas} — PetroBowl, PetroGames e desafios internacionais
+  \item[\color{spe-accent}\textbf{💰}] \textbf{Financiamento e Bolsas} — Grants para eventos, atividades e desenvolvimento
+  \item[\color{spe-accent}\textbf{⭐}] \textbf{Credibilidade Profissional} — Reconhecimento global da SPE
+  \item[\color{spe-accent}\textbf{🎁}] \textbf{Descontos Exclusivos} — Em revistas, eventos e serviços
+  \item[\color{spe-accent}\textbf{🌍}] \textbf{Comunidade Global} — Conexão com estudantes em 140+ países
+\end{enumeratxtbf{Acesso a literatura técnica.}
+  \item \textbf{Formdo Student Chapter ISPTEC}
+
+\begin{tcolorbox}[colback=spe-light,colframe=spe-teal,arc=3mm,boxrule=2pt]
+\begin{itemize}[label=\color{spe-teal}\textbf{◆}]
+  \item \textbf{Apoio Financeiro} para palestras, workshops e visitas técnicas
+  \item \textbf{Suporte Organizacional} da SPE e da instituição
+  \item \textbf{Acesso Prioritário} a competições nacionais e internacionais
+  \item \textbf{Mentoria com Profissionais Locais} — orientação de carreira
+  \item \textbf{Desenvolvimento de Liderança} — oportunidades de organizar eventos
+  \item \textbf{Comunidade Próxima} — amigos, colegas e networking local
+\end{itemize}
+\end{tcolorbox
 \section{Benefícios específicos do Student Chapter}
 \begin{itemize}
   \item \textbf{Apoio financeiro para atividades locais.}
@@ -75,15 +141,61 @@ Participar na SPE dá acesso a uma comunidade profissional, recursos técnicos e
 
 \section{Mensagens e pitches rápidos}
 \begin{itemize}
-  \item Use mensagens curtas e diretas para convocatórias e recrutamento.
-  \item Indique sempre data, hora, local e link de inscrição.
-  \item Ofereça um benefício claro (desconto, certificado, prioridade) para incentivo.
-\end{itemize}
+  \item UCronograma para o 1.º Ano — Foco em Alto Impacto}
 
-\section{Recomendações práticas — Prioridades para o 1.º ano}
-Foco em atividades de baixo custo e alto impacto. Cronograma sugerido:
-\begin{enumerate}
-  \item \textbf{Trimestre 1:} 2 palestras com profissionais + 1 workshop de soft skills + 1 atividade social de integração. \textit{(Ex.: Palestra com Eng. A.; workshop CV com RH local.)}
+Estratégia: atividades de baixo custo, máxima qualidade e participação.
+
+\begin{tcolorbox}[colback=white,colframe=spe-accent,arc=3mm,boxrule=2pt]
+\textbf{\color{spe-dark}Trimestre 1:} Construir base e confiança
+\begin{itemize}[label=\color{spe-accent}→]
+  \item 2 palestras com profissionais (networking + aprendizado)
+  \item 1 workshop de soft skills (CV, entrevistas)
+  \item 1 atividade social de integração (conhecer colegas)
+\end{itemize}— Próximos Passos}
+
+\begin{tcolorbox}[colback=spe-light,colframe=spe-teal,arc=3mm,boxrule=2pt]
+\begin{itemize}[label=\color{spe-teal}☑]
+  \item[\color{spe-teal}☐] Criar ficheiro \texttt{membros.csv} (nome, email, curso, ano, membroSPE, data\_inscricao)
+  \item[\color{spe-teal}☐] Confirmar conta SPE na plataforma
+  \item[\color{spe-teal}☐] Guardar certificados e documentos no Google Drive
+  \item[\color{spe-teal}☐] Registar-se nos próximos eventos e voluntariar-se
+  \item[\color{spe-teal}☐] Contactar Chapter Advisor para candidaturas a grants
+  \item[\color{spe-teal}☐] Partilhar este guia com colegas interessados
+\end{itemize}
+\end{tcolorboxor{spe-dark}Trimestre 2:} Dinamizar e competir
+\begin{itemize}[label=\color{spe-accent}→]
+  \item Mesa-redonda com ex-alunos (trajetórias de carreira)
+  \item PetroBowl interno ou treino de equipa
+  \item Sessão técnica com profissional
+\end{ite2em}
+
+\begin{center}
+{\color{spe-teal}\rule{0.6\textwidth}{2pt}}\\
+\vspace{1em}
+{\large\bfseries\color{spe-dark}Junte-se à comunidade SPE ISPTEC}\\
+\vspace{0.5em}
+{\color{spe-accent}\textbf{Transforme a sua carreira — registe-se em https://www.spe.org/join/}}\\
+\vspace{1em}
+{\color{spe-teal}\rule{0.6\textwidth}{2pt}}
+\end{center}
+
+\vspace{0.5em}
+
+\begin{tcolorbox}[colback=white,colframe=spe-accent,arc=3mm,boxrule=2pt]
+\textbf{\color{spe-dark}Trimestre 3:} Consolidar e expandir
+\begin{itemize}[label=\color{spe-accent}→]
+  \item Repetir atividades de maior adesão
+  \item 1 visita técnica (refinaria, laboratório ou empresa local)
+  \item Planear atividades para o ano seguinte
+\end{itemize}
+\end{tcolorbox}
+
+\textbf{\color{spe-dark}Implementação Prática:}
+\begin{itemize}
+  \item Usar Google Forms para inscrições (automático)
+  \item Templates SPE para agendas (consistência visual)
+  \item Gerar certificados PDF automáticos em Google Sheets
+\end{itemize}orkshop CV com RH local.)}
   \item \textbf{Trimestre 2:} Mesa-redonda + PetroBowl interno + sessão com ex-alunos. \textit{(Ex.: organizar equipa representante e treino quinzenal.)}
   \item \textbf{Trimestre 3:} Repetir atividades de maior adesão; preparar 1 visita técnica local opcional (avaliar orçamento). \textit{(Ex.: visita à refinaria ou laboratório universitário.)}
 \end{enumerate}

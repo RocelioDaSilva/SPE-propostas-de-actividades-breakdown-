@@ -947,3 +947,26 @@ Este documento consolidado apresenta **23 propostas de atividades** para o Núcl
 ---
 
 **Fim do Documento Consolidado**
+
+## Anexo A — Dificuldade e Prioridade (Foco: 1.º ano)
+Para garantir sucesso e manter elevado nível de participação no primeiro ano, priorize atividades de baixo custo e baixa dificuldade. Abaixo segue um resumo e uma lista de atividades específicas fáceis, recomendadas para implementação imediata.
+
+- **Atividades fáceis e com alto impacto (Prioridade Alta):**
+	- **Palestras com profissionais:** sessões curtas com Q&A; baixo custo e alta adesão.
+	- **Ciclo de palestras "SPE Talks":** 1–2 palestras por trimestre.
+	- **Sessões informais / Q&A com ex-alunos e profissionais:** contactos rápidos e económicos.
+	- **Mesa-redonda técnica (Round Table):** discussão em painel sobre temas práticos.
+	- **Workshops de soft skills:** CV, preparação para entrevistas, apresentação em público.
+	- **Quiz técnico / PetroBowl interno e desafios online:** engajamento competitivo com baixo custo.
+	- **Clube de leitura de artigos SPE:** encontros regulares para discutir papers.
+	- **Atividades sociais de integração:** boas-vindas, convívios e networking.
+	- **Divulgação científica em escolas / Energy4Me:** alto impacto comunitário, baixo custo.
+
+- **Prioridade sugerida (cronograma simplificado para o 1.º ano):**
+	1. Trimestre 1: 2 palestras + 1 workshop de soft skills + 1 atividade social.
+	2. Trimestre 2: Mesa-redonda + Quiz/PetroBowl interno + sessão com ex-alunos.
+	3. Trimestre 3: Repetir atividades de maior adesão; preparar 1 visita técnica local (opcional).
+
+- **Notas de implementação:** usar contactos de ex-alunos e docentes para oradores; reservar salas do campus; promover inscrições online; pedir apoio institucional para logística.
+
+**Fim do Documento Consolidado**
