@@ -1,6 +1,6 @@
 # Vantagens de Participar na SPE e no Student Chapter
 
-Guia prático para o Membership Chairperson — resumo das principais vantagens de ser membro da Society of Petroleum Engineers (SPE) e de participar ativamente num Student Chapter.
+Guia prático para estudantes membros — resumo das principais vantagens de seres membro da Society of Petroleum Engineers (SPE) e de participares ativamente num Student Chapter. Este documento explica ações práticas que qualquer estudante pode fazer já para tirar proveito da SPE.
 
 ---
 
@@ -27,16 +27,16 @@ Participar na SPE oferece aos estudantes acesso a uma rede global, recursos téc
 - **Mentoria e contacto com profissionais locais:** visitas técnicas, palestras, e programas de mentoria conectam estudantes a empregadores.
 - **Desenvolvimento de liderança:** gerir um capítulo dá experiência em organização, angariação de fundos, comunicação e gestão de projetos.
 
-## Como o Membership Chairperson pode usar estes benefícios (mapa de ações)
+## Como aproveitar estes benefícios — passo a passo para estudantes
 
-- **Conhecer requisitos e orientar candidaturas:** preparar um passo-a-passo (guia PDF / slide) sobre tipos de membro, custos, prazos e formulário de inscrição; organizar sessões "clinic" para inscrição.
-- **Comunicar as vantagens:** criar um one-pager e slides para usar em palestras, emails e redes sociais; atualizar FAQ do capítulo com vantagens concretas (acesso a papers, descontos, grants).
-- **Conduzir campanhas de recrutamento e retenção:** planear drives trimestrais, oferecer incentivos (certificados, prioridade em visitas técnicas), e medir resultados (membros ativos, renovações).
-- **Organizar retenção e recrutamento:** definir metas numéricas (ex.: +20% membros no semestre), criar eventos exclusivos para membros (workshops, Q&A), e acompanhar presença/engajamento.
-- **Apoiar transição de graduados:** fazer sessões específicas para alunos finalistas sobre benefícios da membresia profissional (ex.: networking, acesso a oportunidades avançadas) e checklist de passos para alteração de categoria.
-- **Informar o Board:** manter e partilhar um registo (planilha) com métricas mensais: total de membros, novas inscrições, renovações, presença em eventos.
-- **Incentivar voluntariado:** listar oportunidades de voluntariado (comissões, organização, comunicação) e reconhecer contributos publicamente (certificados, menção em redes sociais).
-- **Reconhecimento:** implementar um programa simples de reconhecimento trimestral — destaque do "voluntário do trimestre" e certificado.
+- **Inscrever-te na SPE:** vai a \url{https://www.spe.org/join/} e cria conta com o teu email institucional. Exemplo: escolhe a categoria `Student`, carrega fotocópia do cartão de estudante se pedirem, e valida a tua condição de estudante.
+- **Participar em eventos:** inscreve-te nas palestras e workshops do capítulo. Exemplo: regista-te num Google Form do evento, participa e guarda o certificado no teu portfólio.
+- **Formar ou juntar-te a uma equipa (PetroBowl/PetroGames):** contacta colegas e treina semanalmente. Exemplo: marcar 8 sessões de 1 hora antes da competição para preparar perguntas técnicas.
+- **Candidatar-te a bolsas e grants:** pede ao capítulo que te apoie na candidatura a Student Chapter Grant ou bolsas de deslocação. Exemplo: preparar um orçamento simples (transporte, alimentação) e solicitar carta de apoio ao Chapter Advisor.
+- **Usar a biblioteca OnePetro e recursos SPE:** pesquisa por temas do teu trabalho (ex.: "reservoir simulation") e descarrega papers relevantes para o teu TFC.
+- **Voluntariar-te em eventos:** oferece 2–3 horas para logística ou receção. Exemplo: ser voluntário numa palestra faz-te ganhar experiência e um certificado.
+- **Documentar e guardar certificados:** cria uma pasta no Google Drive chamada `SPE-Certificados` e coloca aí os PDFs com datas para o teu portfólio.
+- **Pedir mentoria:** envia uma mensagem curta a um ex-aluno/mentor pedindo 30 minutos de orientação. Exemplo de texto: "Olá [Nome], sou [Teu Nome], estudante de Eng. de Petróleo no ISPTEC. Posso agendar 30 min para aconselhamento sobre estágios?".
 
 ## Mensagens e pitchs rápidos (modelos)
 
@@ -56,12 +56,14 @@ Focar em atividades de baixo custo e alto impacto para aumentar adesão e reduzi
 
 Implementação: preparar um pacote (flyer + e-mail + slides) para cada atividade; usar formulários online para inscrições; pedir certificação de participação (PDF) para membros.
 
-## Checklist rápido para campanhas do Membership Chairperson
+## Checklist rápido para estudantes
 
-- Criar ficheiro `membros.csv` com colunas: nome, email, curso, ano, membroSPE(sim/não), data_inscricao, renovado(sim/não).
-- Preparar 1 page PDF com benefícios (para distribuir online e imprimir).
-- Agendar 1 sessão de inscrição guiada por mês até ao fim do semestre.
-- Pedir ao Board um pequeno orçamento para brindes simbólicos (certificados, crachás).
+- Criar conta SPE: acede a \url{https://www.spe.org/join/} e seleciona a categoria `Student`. Usa email institucional para validar a tua condição de estudante.
+- Confirmar se és membro do Student Chapter (contacta o chapter officer para validação).
+- Registar-te nos próximos 2 eventos do capítulo (pelo menos uma palestra e um workshop).
+- Participar como voluntário numa atividade (2–3 horas) para ganhar experiência prática.
+- Guardar os certificados de participação e adicionar ao teu portfólio/currículo.
+- Juntar 2 colegas e formar equipa para o PetroBowl interno.
 
 ## Fontes e leituras úteis
 
@@ -72,6 +74,6 @@ Implementação: preparar um pacote (flyer + e-mail + slides) para cada atividad
 
 ---
 
-**Próximos passos sugeridos:** implementar o pacote de comunicação (flyer + email), agendar a primeira palestra e lançar a campanha de inscrições. Se concordar, eu crio os templates e faço commit no repo.
+**Próximos passos sugeridos para ti (estudante):** cria já a tua conta SPE, inscreve-te nos próximos eventos do capítulo e convida 2 colegas. Se quiseres, eu crio templates (flyer, email, slide) e adiciono ao repositório.
 
 *** Fim do documento ***
