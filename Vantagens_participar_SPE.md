@@ -29,14 +29,14 @@ Participar na SPE oferece aos estudantes acesso a uma rede global, recursos téc
 
 ## Como aproveitar estes benefícios — passo a passo para estudantes
 
-- **Inscrever-te na SPE:** vai a \url{https://www.spe.org/join/} e cria conta com o teu email institucional. Exemplo: escolhe a categoria `Student`, carrega fotocópia do cartão de estudante se pedirem, e valida a tua condição de estudante.
-- **Participar em eventos:** inscreve-te nas palestras e workshops do capítulo. Exemplo: regista-te num Google Form do evento, participa e guarda o certificado no teu portfólio.
-- **Formar ou juntar-te a uma equipa (PetroBowl/PetroGames):** contacta colegas e treina semanalmente. Exemplo: marcar 8 sessões de 1 hora antes da competição para preparar perguntas técnicas.
-- **Candidatar-te a bolsas e grants:** pede ao capítulo que te apoie na candidatura a Student Chapter Grant ou bolsas de deslocação. Exemplo: preparar um orçamento simples (transporte, alimentação) e solicitar carta de apoio ao Chapter Advisor.
-- **Usar a biblioteca OnePetro e recursos SPE:** pesquisa por temas do teu trabalho (ex.: "reservoir simulation") e descarrega papers relevantes para o teu TFC.
-- **Voluntariar-te em eventos:** oferece 2–3 horas para logística ou receção. Exemplo: ser voluntário numa palestra faz-te ganhar experiência e um certificado.
-- **Documentar e guardar certificados:** cria uma pasta no Google Drive chamada `SPE-Certificados` e coloca aí os PDFs com datas para o teu portfólio.
-- **Pedir mentoria:** envia uma mensagem curta a um ex-aluno/mentor pedindo 30 minutos de orientação. Exemplo de texto: "Olá [Nome], sou [Teu Nome], estudante de Eng. de Petróleo no ISPTEC. Posso agendar 30 min para aconselhamento sobre estágios?".
+- **Inscrever-te na SPE:** vai a https://www.spe.org/join/ e cria conta com o teu email institucional; escolhe a categoria `Student`.
+- **Participar em eventos:** inscreve-te nas palestras e workshops do capítulo; participa e guarda o certificado no teu portfólio.
+- **Formar ou juntar-te a uma equipa (PetroBowl/PetroGames):** contacta colegas e treina semanalmente.
+- **Candidatar-te a bolsas e grants:** pede ao capítulo que te apoie na candidatura; prepara um orçamento simples.
+- **Usar a biblioteca OnePetro e recursos SPE:** pesquisa por temas do teu trabalho e descarrega papers relevantes.
+- **Voluntariar-te em eventos:** oferece 2–3 horas para logística ou receção para ganhar experiência e networking.
+- **Documentar e guardar certificados:** cria uma pasta no Google Drive chamada `SPE-Certificados` e coloca aí os PDFs com as datas.
+- **Pedir mentoria:** envia uma mensagem curta a um ex-aluno/mentor pedindo 30 minutos de orientação.
 
 ## Mensagens e pitchs rápidos (modelos)
 
