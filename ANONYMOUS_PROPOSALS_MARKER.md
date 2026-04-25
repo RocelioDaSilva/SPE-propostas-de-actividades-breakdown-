@@ -37,11 +37,11 @@ Esta é uma lista de controlo das propostas submetidas por estudantes identifica
 | # | Título da Proposta | Autor | Matrícula |
 |---|---|---|---|
 | **1** | Proposta Base - Atividades do SPE ISPTEC | Atividades Base do Núcleo | N/A |
-| **3** | Proposta de Cleusio Branco | Cleusio Branco | #5959727 |
+| **3** | Proposta de Cleusio Branco | Cleusio Branco | [REDACTED] |
 | **4** | Proposta de Atividades para o SPE Student Chapter | Conceição Sapeso | — |
-| **6** | Proposta de Eliane Carolina da C. Kangombe | Eliane Carolina da C. Kangombe | 20220197 |
+| **6** | Proposta de Eliane Carolina da C. Kangombe | Eliane Carolina da C. Kangombe | [REDACTED] |
 | **7** | Proposta de Plano de Atividades: Fortalecimento Técnico | Eliùd Manuel | — |
-| **8** | Concurso Técnico de Simulação Integrada da Cadeia Petrolífera | Esperança Cristóvão Bento | 20220795 |
+| **8** | Concurso Técnico de Simulação Integrada da Cadeia Petrolífera | Esperança Cristóvão Bento | [REDACTED] |
 | **11** | Sugestões de Actividades para o Núcleo | Hélio Martins | — |
 | **15** | Perspectiva de Lunecenera Castro - Workshops | Lunecenera Castro | Estudante de Geofísica |
 | **16** | Proposta de Plano de Atividades-SPE ISPTEC | Maria Dos Reis | — |
